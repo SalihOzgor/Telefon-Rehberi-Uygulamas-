@@ -53,6 +53,9 @@ namespace Telefon_Rehberi_Uygulamas_
             {
                 KisiBulunamadi();
             }
+            Console.WriteLine("\n* Ana ekrana dönmek için herhangi bir tuşa basınız...");
+            Console.ReadLine();
+            AnaEkran.AnaEkranGoster();
         }
 
         public static void NumaraBulma(string numara)
