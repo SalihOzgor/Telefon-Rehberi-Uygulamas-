@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\Telefon-Rehberi-Uygulamas-.exe
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\Telefon-Rehberi-Uygulamas-.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\Telefon-Rehberi-Uygulamas-.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\Telefon-Rehberi-Uygulamas-.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\Telefon-Rehberi-Uygulamas-.dll
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\ref\Telefon-Rehberi-Uygulamas-.dll
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\bin\Debug\net5.0\Telefon-Rehberi-Uygulamas-.pdb
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.dll
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\ref\Telefon-Rehberi-Uygulamas-.dll
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.pdb
+C:\Users\Salih\Documents\Çalışmalar\Telefon-Rehberi-Uygulamas-\obj\Debug\net5.0\Telefon-Rehberi-Uygulamas-.genruntimeconfig.cache
