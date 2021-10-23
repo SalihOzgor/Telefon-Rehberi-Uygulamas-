@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
+
 
 namespace Telefon_Rehberi_Uygulamas_
 {
-    public class AnaEkran
+    public static class AnaEkran
     {
         public static List<Kisiler> KisiList;
         
